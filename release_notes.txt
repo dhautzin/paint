@@ -1,0 +1,133 @@
+Dan's Paint Version 6 - 10/7/2020
+
+New Feature's:
+*Preview of shapes
+*Tooltips
+*Ability to open multiple tabs
+*Logging
+*Secret Mode
+*Auto-save Timer
+
+Known Issues:
+*Showing timer might crash computer
+
+Links:
+https://github.com/dhautzin/paint
+https://youtu.be/OUW_vPnOv_o
+___________________________________________________
+
+Dan's Paint Version 5 - 09/26/2020
+
+New Feature's:
+*Working Text
+*Ability to take piece of image and move it
+*Redo Button
+*Note that says saving as different file type may result in loss of data
+*View Menu
+*Unit Tests
+*Some Javadoc commenting
+*Ability to preview shapes
+
+Known Issues:
+*Kaledescope effect when previewing shapes
+*Unit Tests cannot initilize color picker
+
+Expected Next Sprint:
+*Auto Save Timer
+*Logging capability
+*Tool Tips
+*Open multiple tabs
+*Draw Triangle and Polygon
+
+Link:
+https://youtu.be/46U_YnY9eXI
+_______________________________________________________
+
+Dan's Paint Version 4 - 09/21/2020
+
+New Feature's:
+*Eraser
+*See which tool selected and select no tool
+*Help allows access to release notes
+
+Known Issues:
+*Currently reworking entire code
+
+Next Sprint:
+*Timer before autosave
+*Unit Tests
+*Add Text
+*Redo Button
+*Preview Drawing
+*Ability to select and move parts of image
+*Resize image
+
+Links:
+https://youtu.be/rmQ6ONWdfgY
+__________________________________________________________
+
+Dan's Paint Version 3 - 09/11/2020
+
+New Feature's:
+*Added straight line tool
+*Made select width and color affect drawing
+*Able to draw and choose color of square, rectangle, ellipse, and circle
+*Added "smart" save
+*Added shortcut key combinations
+*Added color "grabber"
+*Added zoom in and out
+*Added undo button
+
+Known Issues:
+*Mouse events don't close
+
+Expected Next Sprint:
+*Open multiple images at once
+
+
+Links:
+https://youtu.be/o4m6q15S9FY
+______________________________________________________________________________
+
+Dan's Paint Version 2 - 09/03/2020
+
+New Feature's:
+*Added Help Dialog
+*Added ability to draw and save line on image
+*Added Color Picker (not able to affect line color)
+*Added line width setter (not able to affect line)
+*Added resize to fit image
+*Added scroll bar is image is large
+*Added Draw menu that includes the ability to create the line, color picker, and line width
+
+
+Known Issues:
+*No Known Issues
+
+Expected Next Sprint:
+*Color picker to affect line color
+*Line Width setter to affect line width
+*Ability to draw more shapes
+
+Links:
+https://youtu.be/0S3RKBmWILM
+
+_______________________________________________________________________
+
+Dan's Paint Version 1 - 08/27/2020
+
+New Feature's:
+*Added Menu
+*Able to open images
+*Added working save and save as menu options
+*Added close button that will detect if saved or not and ask if image hasn't been saved
+
+Known Issues:
+*No known issues
+
+Expected Next Sprint:
+*Add more menu options
+*Ability to edit images
+
+Links:
+https://youtu.be/usync1tSYSQ
